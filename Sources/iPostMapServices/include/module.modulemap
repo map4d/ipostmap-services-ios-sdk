@@ -1,0 +1,4 @@
+module iPostMapServices {
+    umbrella header "iPostMapServices.h"
+    export Map4dServices
+}
